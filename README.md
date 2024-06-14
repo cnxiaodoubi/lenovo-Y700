@@ -1,12 +1,12 @@
- Lenovo-Y700-15ISK
+### Lenovo-Y700-15ISK
 ----
 
 `macOS Monterey 12.0.1 rc2`
 
-![screenshot](/Image/macOS%20Monterey%2012.0.1.png)
+![](/Image/macOS%20Monterey%2012.0.1.png)
 
 ----
-电脑概览
+### 电脑概览
 
 CPU  (英特尔)Intel(R) Core(TM) I7-6700HQ 
 
@@ -20,7 +20,7 @@ CPU  (英特尔)Intel(R) Core(TM) I7-6700HQ
 
 
 ----
-OpenCore:0.7.5(开发版21/10/18)
+### OpenCore:0.7.5(开发版21/10/18)
 ----
 
 待解决：
